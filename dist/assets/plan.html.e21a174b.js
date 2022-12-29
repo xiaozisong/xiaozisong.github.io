@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-522025f2","path":"/share/plan.html","title":"\u8BA1\u5212\u8981\u5B66\u7684","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1672245181000,"contributors":[{"name":"xiaozisong","email":"xiaozis@gantsoftware.com","commits":1}]},"filePathRelative":"share/plan.md"}');export{a as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ae27529a","path":"/tools/git/js_delivr.html","title":"\u901A\u8FC7 jsDelivr \u5F15\u7528\u8D44\u6E90","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1672245181000,"contributors":[{"name":"xiaozisong","email":"xiaozis@gantsoftware.com","commits":1}]},"filePathRelative":"tools/git/js_delivr.md"}');export{t as data};

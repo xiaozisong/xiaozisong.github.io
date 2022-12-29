@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-37db0a0c","path":"/backend/nodejs/url.html","title":"url\xA0\u7F51\u5740\u6A21\u5757\u7684\u4F7F\u7528","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1672245181000,"contributors":[{"name":"xiaozisong","email":"xiaozis@gantsoftware.com","commits":1}]},"filePathRelative":"backend/nodejs/url.md"}');export{e as data};

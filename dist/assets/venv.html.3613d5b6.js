@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3aa10f23","path":"/backend/python/venv.html","title":"\u521B\u5EFA\u865A\u62DF\u73AF\u5883","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1672245181000,"contributors":[{"name":"xiaozisong","email":"xiaozis@gantsoftware.com","commits":1}]},"filePathRelative":"backend/python/venv.md"}');export{t as data};
